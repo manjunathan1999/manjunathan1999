@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **manjunathanchettiar2908@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x5aokdDWoYljF9cRtTfU6eM-r5jmweT4/view?usp=drive_link](https://drive.google.com/file/d/1x5aokdDWoYljF9cRtTfU6eM-r5jmweT4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
