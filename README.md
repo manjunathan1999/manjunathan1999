@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Go and Goroutines**
 - 👯 I’m looking to collaborate on **AI chatbot or The development of GenAI**
 - 📫 How to reach me **manjunathanchettiar2908@gmail.com**
-- 📄 **Resume:** [View/Download My Resume](/resume.pdf)
+- 📄 **Resume:** [View/Download My Resume](/Manjunathan_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
