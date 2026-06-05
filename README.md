@@ -18,7 +18,7 @@
 ```python
 class Manjunathan:
     role        = "Python & Backend Developer"
-    experience  = "1.5+ years"
+    experience  = "3+ years"
     location    = "India"
     currently   = "Building with Gen AI"
     learning    = ["Go", "Goroutines", "LLM Architectures"]
